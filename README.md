@@ -8,13 +8,27 @@
 
 ![Location](https://img.shields.io/badge/Boston,_USA-1E3A5F?style=for-the-badge&logo=googlemaps&logoColor=C0704A)
 ![Languages](https://img.shields.io/badge/English_/_Spanish-1E3A5F?style=for-the-badge&logo=googletranslate&logoColor=C0704A)
-![Relocate](https://img.shields.io/badge/Open_to_Relocate-1E3A5F?style=for-the-badge&logo=airplayaudio&logoColor=C0704A)
+![Relocate](https://img.shields.io/badge/🌎_Open_to_Relocate-1E3A5F?style=for-the-badge)
 
 <br>
 
-![ARR Growth](https://img.shields.io/badge/ACCOUNT_GROWTH-300%25-C0704A?style=for-the-badge&labelColor=1E3A5F)
-![ARR](https://img.shields.io/badge/ARR_BUILT-%241M-C0704A?style=for-the-badge&labelColor=1E3A5F)
-![Run Rate](https://img.shields.io/badge/MONTHLY_RUN_RATE-%24250K-C0704A?style=for-the-badge&labelColor=1E3A5F)
+### OPEN TO
+
+![Strategy Consulting](https://img.shields.io/badge/Strategy_Consulting-C0704A?style=for-the-badge&labelColor=1E3A5F)
+![Growth](https://img.shields.io/badge/Growth-C0704A?style=for-the-badge&labelColor=1E3A5F)
+![Sales](https://img.shields.io/badge/Sales-C0704A?style=for-the-badge&labelColor=1E3A5F)
+![Management](https://img.shields.io/badge/Management-C0704A?style=for-the-badge&labelColor=1E3A5F)
+
+![Business Development](https://img.shields.io/badge/Business_Development-C0704A?style=for-the-badge&labelColor=1E3A5F)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-C0704A?style=for-the-badge&labelColor=1E3A5F)
+
+<br>
+
+### THE RECEIPTS
+
+![ARR Growth](https://img.shields.io/badge/ACCOUNT_GROWTH-300%25-3E6B8A?style=for-the-badge&labelColor=1E3A5F)
+![ARR](https://img.shields.io/badge/ARR_BUILT-%241M-3E6B8A?style=for-the-badge&labelColor=1E3A5F)
+![Run Rate](https://img.shields.io/badge/MONTHLY_RUN_RATE-%24250K-3E6B8A?style=for-the-badge&labelColor=1E3A5F)
 
 ![Org](https://img.shields.io/badge/ORG_DIRECTED-60%2B-475569?style=for-the-badge&labelColor=1E3A5F)
 ![Reports](https://img.shields.io/badge/DIRECT_REPORTS-15-475569?style=for-the-badge&labelColor=1E3A5F)
@@ -30,11 +44,11 @@
 
 ## 👋 The Short Version
 
-I think like an **engineer**. I'm trained in **strategic management**. And I spent five years in **B2B sales** — as a sales manager, an account manager, and a people manager.
+I think like an **engineer**. I'm trained in **strategic management**. And I spent five years in **B2B sales**, as a sales manager, an account manager, and a people manager.
 
 Now I'm building with **AI**: new solutions, and better versions of the human processes I used to run.
 
-Not to make people obsolete. I've managed commercial teams — I know how much of that work is judgment, relationships, and reading a room, and how much of it is moving data between systems so a report can exist. AI should take the second one. Same people, faster and better at the parts that actually need them.
+Not to make people obsolete. I've managed commercial teams, so I know how much of that work is judgment, relationships, and reading a room, and how much of it is moving data between systems so a report can exist. AI should take the second one. Same people, faster and better at the parts that actually need them.
 
 <img src="https://img.shields.io/badge/-C0704A?style=flat-square" width="100%" height="3">
 
@@ -59,7 +73,7 @@ Here's the sequence on a question I've been handed more than once:
 </td>
 <td valign="top">
 
-*"Grow the account"* is a direction, not a plan. So I break the revenue into its actual drivers and find which one is genuinely constrained — because it's almost never the one everybody assumes.
+*"Grow the account"* is a direction, not a plan. So I break the revenue into its actual drivers and find which one is genuinely constrained, because it's almost never the one everybody assumes.
 
 Pull the data and the answer is rarely *sell harder*. More often you're deeply embedded with one team and invisible to the rest of the organization. That single fact changes the job from **push** to **get introduced**.
 
@@ -77,7 +91,7 @@ Pull the data and the answer is rarely *sell harder*. More often you're deeply e
 </td>
 <td valign="top">
 
-Then I break my own answer. *If we couldn't add a single new user, how would we double this account?* That question kills the reflex plan — more outreach, more logos — and pushes you toward pricing, packaging, and the workflows the client already pays someone else to handle.
+Then I break my own answer. *If we couldn't add a single new user, how would we double this account?* That question kills the reflex plan of more outreach and more logos, and pushes you toward pricing, packaging, and the workflows the client already pays someone else to handle.
 
 The inverse works just as well: *why would this client leave?* Whatever you answer is a roadmap.
 
@@ -95,7 +109,7 @@ The inverse works just as well: *why would this client leave?* Whatever you answ
 </td>
 <td valign="top">
 
-Before the pitch, the model — usage patterns, price sensitivity, which teams renew and which quietly churn. Then I stress it: *what if the champion leaves? what if procurement caps spend? what if the pilot team is the only one that ever adopts?*
+Before the pitch, the model: usage patterns, price sensitivity, which teams renew and which quietly churn. Then I stress it. *What if the champion leaves? What if procurement caps spend? What if the pilot team is the only one that ever adopts?*
 
 A plan that only works in the good case isn't a plan. So it ships to one team first, holds, and only then scales.
 
@@ -113,7 +127,7 @@ A plan that only works in the good case isn't a plan. So it ships to one team fi
 </td>
 <td valign="top">
 
-Instrumented from day one: ARR, monthly run rate, renewal rate, penetration by team. *"The relationship is stronger"* is not a result — it's a feeling with a good vocabulary.
+Instrumented from day one: ARR, monthly run rate, renewal rate, penetration by team. *"The relationship is stronger"* is not a result. It's a feeling with a good vocabulary.
 
 If I can't name the number that moved, I haven't finished. I've just been busy.
 
@@ -121,7 +135,7 @@ If I can't name the number that moved, I haven't finished. I've just been busy.
 </tr>
 </table>
 
-> Run end to end, that sequence took one account to **300% growth**, **$1M ARR**, and a **$250K monthly run rate** — and anchored the largest renewal on the team. Nothing on this page is a responsibility. It's all a result.
+> Run end to end, that sequence took one account to **300% growth**, **$1M ARR**, and a **$250K monthly run rate**, and it anchored the largest renewal on the team. Nothing on this page is a responsibility. It's all a result.
 
 <img src="https://img.shields.io/badge/-C0704A?style=flat-square" width="100%" height="3">
 
@@ -129,11 +143,11 @@ If I can't name the number that moved, I haven't finished. I've just been busy.
 
 ![Dialectica](https://img.shields.io/badge/DIALECTICA-Bogotá,_Colombia-C0704A?style=for-the-badge&labelColor=1E3A5F)
 &nbsp;
-![Tenure](https://img.shields.io/badge/Sep_2022_–_Sep_2025-475569?style=for-the-badge)
+![Tenure](https://img.shields.io/badge/Sep_2022_to_Sep_2025-475569?style=for-the-badge)
 
 *A global insight network serving top-tier consulting firms and private equity.*
 
-#### Manager, Commercial & Strategy Coverage — Americas &nbsp;·&nbsp; `Feb 2024 – Sep 2025`
+#### Manager, Commercial & Strategy Coverage, Americas &nbsp;·&nbsp; `Feb 2024 to Sep 2025`
 
 - Grew a strategic US-based account **300% to $1M ARR**, scaling to a **$250K monthly run rate** and anchoring the team's largest renewal
 - Directed a **60+ person commercial organization** with **15 direct reports** across the Americas, exceeding weekly pipeline and conversion targets throughout the fiscal year
@@ -141,31 +155,31 @@ If I can't name the number that moved, I haven't finished. I've just been busy.
 - Partnered with **Product & Engineering** on GTM strategy for the B2B Surveys product, translating client feedback into enhancements that increased adoption across the account base
 - Modeled revenue forecasts and pricing scenarios in **SQL and Excel**, surfacing the expansion opportunities behind the account's 300% growth
 
-#### Senior Associate &nbsp;·&nbsp; `Oct 2023 – Feb 2024`
+#### Senior Associate &nbsp;·&nbsp; `Oct 2023 to Feb 2024`
 
 - Owned research delivery for top-tier US consulting and private-equity clients, coordinating a **global expert network** against strategy and due-diligence deadlines
 - Served as primary liaison between US client case teams and external experts, sustaining repeat business through consistently on-time delivery under tight timelines
 
-#### Associate &nbsp;·&nbsp; `Sep 2022 – Oct 2023`
+#### Associate &nbsp;·&nbsp; `Sep 2022 to Oct 2023`
 
 - Interviewed **200+ C-level executives** and global industry experts, converting raw intelligence into structured insights that informed US client strategy and investment decisions
 - Structured primary research and competitive analysis, breaking ambiguous questions into testable hypotheses that streamlined case-team workflows
 
 <br>
 
-![Ecorunner](https://img.shields.io/badge/ECORUNNER-Founder_&_General_Manager-1E3A5F?style=for-the-badge&labelColor=1E3A5F) &nbsp;`2021 – 2024`
+![Ecorunner](https://img.shields.io/badge/ECORUNNER-Founder_&_General_Manager-1E3A5F?style=for-the-badge&labelColor=1E3A5F) &nbsp;`2021 to 2024`
 
-Built a D2C clothing brand from a **$100 investment to ~$1K in monthly sales** alongside a full-time role — supplier contracts, production, unit costs, marketing, and **6 retail pop-ups**.
+Built a D2C clothing brand from a **$100 investment to ~$1K in monthly sales** alongside a full-time role, covering supplier contracts, production, unit costs, marketing, and **6 retail pop-ups**.
 
-![Sergio Arboleda](https://img.shields.io/badge/SERGIO_ARBOLEDA-Auxiliary_Teacher-1E3A5F?style=for-the-badge&labelColor=1E3A5F) &nbsp;`Apr – May 2024`
+![Sergio Arboleda](https://img.shields.io/badge/SERGIO_ARBOLEDA-Auxiliary_Teacher-1E3A5F?style=for-the-badge&labelColor=1E3A5F) &nbsp;`Apr to May 2024`
 
 Taught undergraduate **Strategic Management** through case studies and simulations. **98% course completion rate.**
 
-![Expreso](https://img.shields.io/badge/EXPRESO_BOLIVARIANO-Business_Development-1E3A5F?style=for-the-badge&labelColor=1E3A5F) &nbsp;`Dec 2021 – Jun 2022`
+![Expreso](https://img.shields.io/badge/EXPRESO_BOLIVARIANO-Business_Development-1E3A5F?style=for-the-badge&labelColor=1E3A5F) &nbsp;`Dec 2021 to Jun 2022`
 
 Grew B2B revenue in the delivery segment through data analysis and market intelligence; standardized shipping workflows and expanded the corporate client base into new segments.
 
-![NomoWaste](https://img.shields.io/badge/NOMOWASTE-Project_Manager-1E3A5F?style=for-the-badge&labelColor=1E3A5F) &nbsp;`Mar 2019 – Sep 2021`
+![NomoWaste](https://img.shields.io/badge/NOMOWASTE-Project_Manager-1E3A5F?style=for-the-badge&labelColor=1E3A5F) &nbsp;`Mar 2019 to Sep 2021`
 
 Sourced, structured, and executed strategic projects and commercial partnerships. 🏆 Won the **AB InBev Accelerator 100+ Award (2020)** for the sustainability initiative *"Return Home."*
 
@@ -191,25 +205,38 @@ Sourced, structured, and executed strategic projects and commercial partnerships
 ![Excel VBA](https://img.shields.io/badge/📗_Excel_VBA-1E3A5F?style=for-the-badge)
 ![ThinkCell](https://img.shields.io/badge/📊_ThinkCell-1E3A5F?style=for-the-badge)
 
+**Growth & Decisioning**
+
+![](https://img.shields.io/badge/Data--Driven_Decision_Making-6BA3D0?style=flat-square&labelColor=1E3A5F)
+![](https://img.shields.io/badge/Revenue_Forecasting-6BA3D0?style=flat-square&labelColor=1E3A5F)
+![](https://img.shields.io/badge/Unit_Economics-6BA3D0?style=flat-square&labelColor=1E3A5F)
+![](https://img.shields.io/badge/CRM_Workflow_Design-6BA3D0?style=flat-square&labelColor=1E3A5F)
+
 **Sales & Revenue**
 
 ![](https://img.shields.io/badge/Full--Cycle_Sales-C0704A?style=flat-square&labelColor=1E3A5F)
+![](https://img.shields.io/badge/Prospecting-C0704A?style=flat-square&labelColor=1E3A5F)
+![](https://img.shields.io/badge/Discovery_&_Qualification-C0704A?style=flat-square&labelColor=1E3A5F)
 ![](https://img.shields.io/badge/Consultative_Selling-C0704A?style=flat-square&labelColor=1E3A5F)
 ![](https://img.shields.io/badge/Contract_Negotiation-C0704A?style=flat-square&labelColor=1E3A5F)
-![](https://img.shields.io/badge/Renewal_&_Expansion-C0704A?style=flat-square&labelColor=1E3A5F)
+![](https://img.shields.io/badge/Renewal_Management-C0704A?style=flat-square&labelColor=1E3A5F)
+![](https://img.shields.io/badge/Account_Expansion-C0704A?style=flat-square&labelColor=1E3A5F)
+![](https://img.shields.io/badge/Upsell_/_Cross--Sell-C0704A?style=flat-square&labelColor=1E3A5F)
+![](https://img.shields.io/badge/ARR_Growth-C0704A?style=flat-square&labelColor=1E3A5F)
 ![](https://img.shields.io/badge/Pipeline_Management-C0704A?style=flat-square&labelColor=1E3A5F)
 ![](https://img.shields.io/badge/Quota_Attainment-C0704A?style=flat-square&labelColor=1E3A5F)
-![](https://img.shields.io/badge/Upsell_/_Cross--Sell-C0704A?style=flat-square&labelColor=1E3A5F)
 
 **Strategy & Business Development**
 
 ![](https://img.shields.io/badge/GTM_Strategy-3E6B8A?style=flat-square&labelColor=1E3A5F)
 ![](https://img.shields.io/badge/Commercial_Due_Diligence-3E6B8A?style=flat-square&labelColor=1E3A5F)
 ![](https://img.shields.io/badge/Market_Sizing-3E6B8A?style=flat-square&labelColor=1E3A5F)
+![](https://img.shields.io/badge/Market_Expansion-3E6B8A?style=flat-square&labelColor=1E3A5F)
 ![](https://img.shields.io/badge/Competitive_Intelligence-3E6B8A?style=flat-square&labelColor=1E3A5F)
 ![](https://img.shields.io/badge/Strategic_Partnerships-3E6B8A?style=flat-square&labelColor=1E3A5F)
-![](https://img.shields.io/badge/Unit_Economics-3E6B8A?style=flat-square&labelColor=1E3A5F)
-![](https://img.shields.io/badge/Revenue_Forecasting-3E6B8A?style=flat-square&labelColor=1E3A5F)
+![](https://img.shields.io/badge/Channel_Development-3E6B8A?style=flat-square&labelColor=1E3A5F)
+![](https://img.shields.io/badge/Americas_Territory_Coverage-3E6B8A?style=flat-square&labelColor=1E3A5F)
+![](https://img.shields.io/badge/Event_&_Channel_Sales-3E6B8A?style=flat-square&labelColor=1E3A5F)
 
 **Leadership**
 
@@ -226,9 +253,9 @@ Sourced, structured, and executed strategic projects and commercial partnerships
 
 | | Project | Stack | Status |
 |:--|:--|:--|:--|
-| `01` | **AI sales intelligence** — turns a prospect list into researched, prioritized deal briefs | Claude API · Python | ![](https://img.shields.io/badge/IN_PROGRESS-C0704A?style=flat-square&labelColor=1E3A5F) |
-| `02` | **Revenue analytics dashboard** — ARR growth and pricing scenario modeling | SQL · Power BI | ![](https://img.shields.io/badge/IN_PROGRESS-C0704A?style=flat-square&labelColor=1E3A5F) |
-| `03` | **B2B insight app** — plain-language answers from commercial data, for people who don't write SQL | React · Node.js · Claude | ![](https://img.shields.io/badge/PLANNING-475569?style=flat-square&labelColor=1E3A5F) |
+| `01` | **AI sales intelligence.** Turns a prospect list into researched, prioritized deal briefs | Claude API · Python | ![](https://img.shields.io/badge/IN_PROGRESS-C0704A?style=flat-square&labelColor=1E3A5F) |
+| `02` | **Revenue analytics dashboard.** ARR growth and pricing scenario modeling | SQL · Power BI | ![](https://img.shields.io/badge/IN_PROGRESS-C0704A?style=flat-square&labelColor=1E3A5F) |
+| `03` | **B2B insight app.** Plain-language answers from commercial data, for people who don't write SQL | React · Node.js · Claude | ![](https://img.shields.io/badge/PLANNING-475569?style=flat-square&labelColor=1E3A5F) |
 
 <img src="https://img.shields.io/badge/-C0704A?style=flat-square" width="100%" height="3">
 
@@ -237,22 +264,14 @@ Sourced, structured, and executed strategic projects and commercial partnerships
 | | | |
 |:--|:--|:--|
 | ![](https://img.shields.io/badge/MBA-C0704A?style=flat-square&labelColor=1E3A5F) | **Hult International Business School** · Boston, USA | *Expected Aug 2026* |
-| ![](https://img.shields.io/badge/Specialist-3E6B8A?style=flat-square&labelColor=1E3A5F) | **Universidad de la Sabana** · Bogotá — Strategic Management | Dec 2022 |
-| ![](https://img.shields.io/badge/BSc-475569?style=flat-square&labelColor=1E3A5F) | **Pontificia Universidad Javeriana** · Bogotá — Civil Engineering | Mar 2021 |
+| ![](https://img.shields.io/badge/Specialist-3E6B8A?style=flat-square&labelColor=1E3A5F) | **Universidad de la Sabana** · Bogotá · Strategic Management | Dec 2022 |
+| ![](https://img.shields.io/badge/BSc-475569?style=flat-square&labelColor=1E3A5F) | **Pontificia Universidad Javeriana** · Bogotá · Civil Engineering | Mar 2021 |
 
 <img src="https://img.shields.io/badge/-C0704A?style=flat-square" width="100%" height="3">
 
 ## 🤝 What I'm Looking For
 
-Roles where commercial judgment and technical execution don't have to be two different people:
-
-![Strategy Consulting](https://img.shields.io/badge/Strategy_Consulting-3E6B8A?style=for-the-badge&labelColor=1E3A5F)
-![Growth](https://img.shields.io/badge/Growth-3E6B8A?style=for-the-badge&labelColor=1E3A5F)
-![Sales](https://img.shields.io/badge/Sales-3E6B8A?style=for-the-badge&labelColor=1E3A5F)
-
-![Business Development](https://img.shields.io/badge/Business_Development-3E6B8A?style=for-the-badge&labelColor=1E3A5F)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-3E6B8A?style=for-the-badge&labelColor=1E3A5F)
-![Management](https://img.shields.io/badge/Management-3E6B8A?style=for-the-badge&labelColor=1E3A5F)
+Roles where commercial judgment and technical execution don't have to be two different people. Strategy consulting, growth, sales, business development, business intelligence, management.
 
 Anywhere the gap between *what the business needed* and *what actually got built* is costing someone real money.
 
