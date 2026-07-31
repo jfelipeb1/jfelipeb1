@@ -10,33 +10,29 @@
 ![Languages](https://img.shields.io/badge/English_/_Spanish-1E3A5F?style=for-the-badge&logo=googletranslate&logoColor=C0704A)
 ![Relocate](https://img.shields.io/badge/🌎_Open_to_Relocate-1E3A5F?style=for-the-badge)
 
-<br>
+#### OPEN TO
 
-### OPEN TO
+![Strategy Consulting](https://img.shields.io/badge/🎯_Strategy_Consulting-C0704A?style=for-the-badge&labelColor=1E3A5F)
+![Growth](https://img.shields.io/badge/📈_Growth-C0704A?style=for-the-badge&labelColor=1E3A5F)
+![Sales](https://img.shields.io/badge/🤝_Sales-C0704A?style=for-the-badge&labelColor=1E3A5F)
 
-![Strategy Consulting](https://img.shields.io/badge/Strategy_Consulting-C0704A?style=for-the-badge&labelColor=1E3A5F)
-![Growth](https://img.shields.io/badge/Growth-C0704A?style=for-the-badge&labelColor=1E3A5F)
-![Sales](https://img.shields.io/badge/Sales-C0704A?style=for-the-badge&labelColor=1E3A5F)
-![Management](https://img.shields.io/badge/Management-C0704A?style=for-the-badge&labelColor=1E3A5F)
+![Business Development](https://img.shields.io/badge/🚀_Business_Development-C0704A?style=for-the-badge&labelColor=1E3A5F)
+![Business Intelligence](https://img.shields.io/badge/📊_Business_Intelligence-C0704A?style=for-the-badge&labelColor=1E3A5F)
+![Management](https://img.shields.io/badge/👥_Management-C0704A?style=for-the-badge&labelColor=1E3A5F)
 
-![Business Development](https://img.shields.io/badge/Business_Development-C0704A?style=for-the-badge&labelColor=1E3A5F)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-C0704A?style=for-the-badge&labelColor=1E3A5F)
+#### THE RECEIPTS
 
-<br>
+![ARR Growth](https://img.shields.io/badge/📈_ACCOUNT_GROWTH-300%25-3E6B8A?style=for-the-badge&labelColor=1E3A5F)
+![ARR](https://img.shields.io/badge/💰_ARR_BUILT-%241M-3E6B8A?style=for-the-badge&labelColor=1E3A5F)
+![Run Rate](https://img.shields.io/badge/⚡_MONTHLY_RUN_RATE-%24250K-3E6B8A?style=for-the-badge&labelColor=1E3A5F)
 
-### THE RECEIPTS
+![Projects](https://img.shields.io/badge/📁_PROJECTS-60%2B-475569?style=for-the-badge&labelColor=1E3A5F)
+![Territory](https://img.shields.io/badge/🌎_TERRITORY-AMERICAS-475569?style=for-the-badge&labelColor=1E3A5F)
+![Promotions](https://img.shields.io/badge/🚀_PROMOTIONS-3_IN_3_YEARS-475569?style=for-the-badge&labelColor=1E3A5F)
 
-![ARR Growth](https://img.shields.io/badge/ACCOUNT_GROWTH-300%25-3E6B8A?style=for-the-badge&labelColor=1E3A5F)
-![ARR](https://img.shields.io/badge/ARR_BUILT-%241M-3E6B8A?style=for-the-badge&labelColor=1E3A5F)
-![Run Rate](https://img.shields.io/badge/MONTHLY_RUN_RATE-%24250K-3E6B8A?style=for-the-badge&labelColor=1E3A5F)
-
-![Org](https://img.shields.io/badge/ORG_DIRECTED-60%2B-475569?style=for-the-badge&labelColor=1E3A5F)
-![Reports](https://img.shields.io/badge/DIRECT_REPORTS-15-475569?style=for-the-badge&labelColor=1E3A5F)
-![Accounts](https://img.shields.io/badge/CONCURRENT_ACCOUNTS-40%2B-475569?style=for-the-badge&labelColor=1E3A5F)
-
-![Executives](https://img.shields.io/badge/C--LEVEL_INTERVIEWS-200%2B-475569?style=for-the-badge&labelColor=1E3A5F)
-![Promotions](https://img.shields.io/badge/PROMOTIONS-3_IN_3_YEARS-475569?style=for-the-badge&labelColor=1E3A5F)
-![Award](https://img.shields.io/badge/AB_INBEV_AWARD-2020-475569?style=for-the-badge&labelColor=1E3A5F)
+![Org](https://img.shields.io/badge/👥_ORG_DIRECTED-60%2B-475569?style=for-the-badge&labelColor=1E3A5F)
+![Reports](https://img.shields.io/badge/🧭_DIRECT_REPORTS-15-475569?style=for-the-badge&labelColor=1E3A5F)
+![Award](https://img.shields.io/badge/🏆_AB_INBEV_AWARD-2020-475569?style=for-the-badge&labelColor=1E3A5F)
 
 </div>
 
@@ -269,15 +265,28 @@ Sourced, structured, and executed strategic projects and commercial partnerships
 
 <img src="https://img.shields.io/badge/-C0704A?style=flat-square" width="100%" height="3">
 
-## 🤝 What I'm Looking For
+## 🌱 Outside Work
 
-Roles where commercial judgment and technical execution don't have to be two different people. Strategy consulting, growth, sales, business development, business intelligence, management.
+Golf, padel, and trekking keep me moving. Cars, travel, art, and music keep me curious. Technology and a good challenge keep me up too late.
 
-Anywhere the gap between *what the business needed* and *what actually got built* is costing someone real money.
+![Golf](https://img.shields.io/badge/⛳_Golf-475569?style=for-the-badge&labelColor=1E3A5F)
+![Padel](https://img.shields.io/badge/🎾_Padel-475569?style=for-the-badge&labelColor=1E3A5F)
+![Trekking](https://img.shields.io/badge/🥾_Trekking-475569?style=for-the-badge&labelColor=1E3A5F)
+![Cars](https://img.shields.io/badge/🏎️_Cars-475569?style=for-the-badge&labelColor=1E3A5F)
+![Travel](https://img.shields.io/badge/✈️_Travel-475569?style=for-the-badge&labelColor=1E3A5F)
 
-If that gap sounds familiar, I'd like to hear about it.
+![Art](https://img.shields.io/badge/🎨_Art-475569?style=for-the-badge&labelColor=1E3A5F)
+![Music](https://img.shields.io/badge/🎵_Music-475569?style=for-the-badge&labelColor=1E3A5F)
+![Technology](https://img.shields.io/badge/💻_Technology-475569?style=for-the-badge&labelColor=1E3A5F)
+![Challenges](https://img.shields.io/badge/🧗_Challenges-475569?style=for-the-badge&labelColor=1E3A5F)
+
+<img src="https://img.shields.io/badge/-C0704A?style=flat-square" width="100%" height="3">
 
 <div align="center">
+
+### Let's talk
+
+I'm after roles where commercial judgment and technical execution don't have to be two different people. Anywhere the gap between *what the business needed* and *what actually got built* is costing someone real money.
 
 [![Email](https://img.shields.io/badge/EMAIL-betancourtjuanfelipe%40gmail.com-C0704A?style=for-the-badge&labelColor=1E3A5F&logo=gmail&logoColor=C0704A)](mailto:betancourtjuanfelipe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-juan--felipe--betancourt-3E6B8A?style=for-the-badge&labelColor=1E3A5F&logo=linkedin&logoColor=6BA3D0)](https://www.linkedin.com/in/juan-felipe-betancourt/)
