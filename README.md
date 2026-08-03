@@ -249,8 +249,8 @@ Sourced, structured, and executed strategic projects and commercial partnerships
 
 | | Project | Stack | Status |
 |:--|:--|:--|:--|
-| `01` | **AI sales intelligence.** Turns a prospect list into researched, prioritized deal briefs | Claude API · Python | ![](https://img.shields.io/badge/IN_PROGRESS-C0704A?style=flat-square&labelColor=1E3A5F) |
-| `02` | **Revenue analytics dashboard.** ARR growth and pricing scenario modeling | SQL · Power BI | ![](https://img.shields.io/badge/IN_PROGRESS-C0704A?style=flat-square&labelColor=1E3A5F) |
+| `01` | **[Portfolio Risk & Return Analysis](https://github.com/jfelipeb1/portfolio-risk-analysis).** Five asset portfolio taken apart in SQL: returns, correlations, volatility, Sharpe ratios, and a rebalancing recommendation | SQL · Python | ![](https://img.shields.io/badge/✅_LIVE-C0704A?style=flat-square&labelColor=1E3A5F) |
+| `02` | **AI sales intelligence.** Turns a prospect list into researched, prioritized deal briefs | Claude API · Python | ![](https://img.shields.io/badge/BUILDING-3E6B8A?style=flat-square&labelColor=1E3A5F) |
 | `03` | **B2B insight app.** Plain-language answers from commercial data, for people who don't write SQL | React · Node.js · Claude | ![](https://img.shields.io/badge/PLANNING-475569?style=flat-square&labelColor=1E3A5F) |
 
 <img src="https://img.shields.io/badge/-C0704A?style=flat-square" width="100%" height="3">
